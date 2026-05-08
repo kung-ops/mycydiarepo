@@ -1,0 +1,9 @@
+Package: com.myname.mytweak
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depiction: https://yourgithub.github.io/mycydiarepo/
+Filename: ./debs/mytweak.deb
+Size: 12345
+MD5sum: abc123def456
+Description: My own tweak
